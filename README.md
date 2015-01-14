@@ -1,1 +1,1 @@
-Projeto Leilões.
+Projeto Leilões do curso Caelum.
